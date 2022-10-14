@@ -1,0 +1,12 @@
+node-lodash-reescape (3.0.0-1.1) unstable; urgency=medium
+
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
+
+ -- Holger Levsen <holger@debian.org>  Tue, 29 Dec 2020 01:17:41 +0100
+
+node-lodash-reescape (3.0.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #848639)
+
+ -- Pirate Praveen <praveen@debian.org>  Mon, 19 Dec 2016 11:04:23 +0530
